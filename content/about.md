@@ -20,6 +20,21 @@ with [Hextra](https://imfing.github.io/hextra/).
 
 Neither project is affiliated with this site, and neither is responsible for its content.
 
+## Checking the conjugations
+
+Every conjugated form on the reference pages is checked against
+[Wiktionary](https://en.wiktionary.org/) before it is published — each form on a verb page
+is looked up individually rather than trusted from memory. Wiktionary has also settled
+smaller questions along the way: which adjectives change meaning between *ser* and *estar*,
+whether *vió* still takes an accent, and where *ser* and *estar* come from in Latin.
+
+Nothing is copied from it. Conjugated forms are facts about the language rather than
+anyone's writing, and the tables, examples, and explanations here are original. Wiktionary
+content is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), the
+same license this site uses, so anything that did carry over would be compatible.
+
+Mistakes that survive all that are mine. If you spot one, it is worth telling me about.
+
 ## License
 
 The lesson content here is © 2026 Michael Henderson and licensed under
