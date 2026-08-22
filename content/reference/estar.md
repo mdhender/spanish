@@ -53,6 +53,8 @@ progressive of other verbs — see the presente continuo table on any other verb
 ## Pretérito indefinido
 
 Irregular. Stem `estuv-`, with the endings shown.
+The same `-uv-` preterite, with the same endings, appears in [andar](../andar/) and
+[tener](../tener/).
 
 | Sujeto | Verbo | Ejemplo |
 | --- | --- | --- |

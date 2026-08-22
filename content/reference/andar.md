@@ -55,6 +55,8 @@ on the irregular stem `anduv-`.
 ## Pretérito indefinido
 
 Irregular. Stem `anduv-`, with the endings shown.
+The same `-uv-` preterite, with the same endings, appears in [estar](../estar/) and
+[tener](../tener/).
 
 | Sujeto | Verbo | Ejemplo |
 | --- | --- | --- |

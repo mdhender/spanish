@@ -1,6 +1,6 @@
 ---
 title: ver
-weight: 9
+weight: 10
 ---
 
 **ver** — to see; to watch
