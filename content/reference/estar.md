@@ -1,6 +1,6 @@
 ---
 title: estar
-weight: 2
+weight: 3
 ---
 
 **estar** — to be (location, condition, ongoing state)
