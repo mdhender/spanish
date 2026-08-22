@@ -1,0 +1,73 @@
+baseURL: https://spanish.mdhenderson.com/
+title: Spanish Lessons
+
+locale: en-US
+defaultContentLanguage: en
+
+enableRobotsTXT: false
+enableGitInfo: false
+enableEmoji: true
+hasCJKLanguage: false
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+disableKinds: [taxonomy, term]
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Tutorials
+      pageRef: /tutorials
+      weight: 1
+    - name: How-to Guides
+      pageRef: /how-to
+      weight: 2
+    - name: Reference
+      pageRef: /reference
+      weight: 3
+    - name: Explanation
+      pageRef: /explanation
+      weight: 4
+    - name: About
+      pageRef: /about
+      weight: 5
+    - name: Search
+      weight: 6
+      params:
+        type: search
+
+params:
+  description: Learn Spanish through tutorials, how-to guides, reference material, and explanations.
+
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false  # credits live on /about/ instead
+    width: normal
+
+  theme:
+    default: system
+    displayToggle: true
+
+  page:
+    width: normal
+
+  editURL:
+    enable: false

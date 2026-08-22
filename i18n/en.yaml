@@ -1,0 +1,5 @@
+# Overrides Hextra's default footer copyright (see the theme's _partials/footer.html,
+# which renders {{ T "copyright" }} through markdownify).
+copyright: >-
+  © 2026 Michael Henderson.
+  Content licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
