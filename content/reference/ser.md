@@ -1,6 +1,6 @@
 ---
 title: ser
-weight: 5
+weight: 6
 ---
 
 **ser** — to be (identity, origin, characteristics, time)

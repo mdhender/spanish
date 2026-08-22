@@ -1,16 +1,16 @@
 ---
 title: sufrir
-weight: 6
+weight: 7
 ---
 
 **sufrir** — to suffer
 
-A fully regular `-ir` verb, and a model for that class the way [correr](../correr/) is for
-`-er` and [andar](../andar/) is for `-ar`.
+A fully regular `-ir` verb, and the model for that class. Compare [hablar](../hablar/)
+for `-ar` and [correr](../correr/) for `-er`.
 
-Note that the nosotros form is the same in the presente simple and the pretérito
-indefinido — `sufrimos` is both "we suffer" and "we suffered". This holds for regular
-`-ir` verbs generally, and only context separates the two.
+The nosotros form is the same in the presente simple and the pretérito indefinido —
+`sufrimos` is both "we suffer" and "we suffered", and only context separates them.
+Regular `-ar` verbs share this; regular `-er` verbs do not.
 
 ## Presente simple
 
