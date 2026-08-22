@@ -1,6 +1,6 @@
 ---
 title: sufrir
-weight: 7
+weight: 8
 ---
 
 **sufrir** — to suffer
