@@ -33,7 +33,9 @@ anyone's writing, and the tables, examples, and explanations here are original. 
 content is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), the
 same license this site uses, so anything that did carry over would be compatible.
 
-Mistakes that survive all that are mine. If you spot one, it is worth telling me about.
+Mistakes that survive all that are mine. If you spot one, please
+[open an issue](https://github.com/mdhender/spanish/issues) — the site's source lives in
+[mdhender/spanish](https://github.com/mdhender/spanish) on GitHub.
 
 ## License
 
